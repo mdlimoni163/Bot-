@@ -7,7 +7,7 @@ from telegram.ext import (
 
 # ================= CONFIG =================
 BOT_TOKEN = "8204385402:AAFVVmaMDPPCMGGDH2lrsDAD6kzowy4yvXs"
-ADMIN_ID = 8204385402  # your Telegram numeric ID
+ADMIN_ID = 7679648228  # your Telegram numeric ID
 # ==========================================
 
 # Temporary storage (use DB in production)
